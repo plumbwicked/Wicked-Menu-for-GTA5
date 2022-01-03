@@ -1,7 +1,5 @@
 # Wicked-for-GTA5
-![Screenshot_78](https://user-images.githubusercontent.com/62859332/147872000-896ef5d7-d1b3-428e-a5fc-79f222788954.png)
-![Screenshot_76](https://user-images.githubusercontent.com/62859332/147871863-cfca8ca5-a815-47cb-8356-f4fd568a4b69.png)
-
+![Screenshot_81](https://user-images.githubusercontent.com/62859332/147916800-a3ab3112-8157-461c-8fcc-439ae527a1f3.png)
 
 Wicked for GTA5
 Cheat Table Based off GassyNull's Tuner script

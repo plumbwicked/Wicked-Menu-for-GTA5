@@ -9,5 +9,14 @@ All credit goes to:
 and Everyone who contributed at UnknownCheaTs.me
 https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-1-1-58-final-cut.html
 
+
+
+Change Log:
+
+
+v1.0.a
+Fixed rendering issue with Custom font. Switched font to Arial .
+
+
 V1.0 updated GUi and Pic   
 

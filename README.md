@@ -1,5 +1,5 @@
 # Wicked-for-GTA5
-![Screenshot_5](https://user-images.githubusercontent.com/62859332/148174815-316759d2-4f86-4bbe-98b0-d5fde493d217.png)
+![1 0 d](https://user-images.githubusercontent.com/62859332/148196208-dbb4ce6b-5656-43f3-bbb6-6adc1080b9e7.png)
 
 
 Wicked for GTA5

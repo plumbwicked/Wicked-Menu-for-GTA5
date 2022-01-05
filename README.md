@@ -1,5 +1,6 @@
 # Wicked-for-GTA5
-![Screenshot_81](https://user-images.githubusercontent.com/62859332/147916800-a3ab3112-8157-461c-8fcc-439ae527a1f3.png)
+![Screenshot_5](https://user-images.githubusercontent.com/62859332/148174815-316759d2-4f86-4bbe-98b0-d5fde493d217.png)
+
 
 Wicked for GTA5
 Cheat Table Based off GassyNull's Tuner script
@@ -16,7 +17,7 @@ Change Log:
 
 
 v1.0.c
-Massive Menu Gui Changes, new colors , cleaned up and orginized .
+Gui Changes, new colors , cleaned up and orginized .
 Added ;
 GassyNull's fix for Bunker Delivery
 * it will now will automatically limit the amount

@@ -5980,7 +5980,7 @@ teleport(7999.764,-5749.864,2.84)
     <CheatEntry>
       <ID>397766</ID>
       <Description>"Item Drop "</Description>
-      <Options moManualExpandCollapse="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <Options moHideChildren="1" moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
       <LastState Value="" RealAddress="00000000"/>
       <Color>2FB900</Color>
       <GroupHeader>1</GroupHeader>
@@ -15191,7 +15191,7 @@ setStat(stat,value)
     <CheatEntry>
       <ID>397765</ID>
       <Description>"Fun Stuff "</Description>
-      <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+      <Options moHideChildren="1" moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
       <LastState Value="" RealAddress="00000000"/>
       <Color>2FB900</Color>
       <GroupHeader>1</GroupHeader>

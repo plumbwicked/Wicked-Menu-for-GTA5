@@ -14,6 +14,17 @@ https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz
 Change Log:
 
 
+
+v1.0.c
+Massive Menu Gui Changes, new colors , cleaned up and orginized .
+Added ;
+GassyNull's fix for Bunker Delivery
+* it will now will automatically limit the amount
+
+
+
+
+
 v1.0b
 Fixed 
 ammo hotkeys

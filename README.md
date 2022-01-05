@@ -14,6 +14,11 @@ https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz
 
 Change Log:
 
+v1.0.d
+Gui changes
+Added ;
+Forge to LSC
+
 
 
 v1.0.c

@@ -16,6 +16,7 @@ Change Log:
 
 v1.1
 Fixed; 
+Control Center, 
 GodMode,
 Ammo,
 Reload.

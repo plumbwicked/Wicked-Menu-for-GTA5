@@ -12,7 +12,12 @@ and Everyone who contributed at UnknownCheaTs.me
 
 
 Change Log:
-
+v1.2
+Added:
+SpeedHack to Mouse5
+All Cheat On to = key
+All Cheats Off to - key
+Updated Credits to Table Extras .
 
 v1.1
 Fixed; 

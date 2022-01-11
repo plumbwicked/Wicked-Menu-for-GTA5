@@ -12,6 +12,18 @@ and Everyone who contributed at UnknownCheaTs.me
 
 
 Change Log:
+
+
+
+v1.3
+Fixed;
+$2 million bunker deliveries 
+
+
+
+
+
+
 v1.2
 Added:
 SpeedHack to Mouse5

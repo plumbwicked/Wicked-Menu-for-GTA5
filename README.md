@@ -12,6 +12,15 @@ and Everyone who contributed at UnknownCheaTs.me
 
 
 Change Log:
+v1.4
+Added :
+LSCCheat - Add any car to your Garage -Beta
+LSC to Teleports
+Single Player Options.
+Organized Menu/Gui
+Rev=moved:
+Item Dropper - Broken
+
 
 
 

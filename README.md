@@ -1,5 +1,5 @@
-# Wicked-for-GTA5
-![1 0 d](https://user-images.githubusercontent.com/62859332/148196208-dbb4ce6b-5656-43f3-bbb6-6adc1080b9e7.png)
+
+
 
 
 Wicked for GTA5
@@ -12,6 +12,47 @@ and Everyone who contributed at UnknownCheaTs.me
 
 
 Change Log:
+
+v1,5 
+
+Cleaned up GUI , Color Coded all Cheats 
+Green = Main Folders
+Blue = Chapters
+Orange = Cheats
+Lime = PopOut Menus
+
+Added :
+MenuCodeBase.
+Disclaimer.
+Weapon Damage/Range set to Default on "All Cheats Off".
+Auto Start Section - 
+Compact/FullViewMode / My Notication set to single/main monitor windows borderless mode,
+Now AutoStarts with Menu .
+LSC Cheat [Save any spawned car to your Garage to keep !]
+Mini Garage[ Add Benny Wheels to Any Car !]
+Teleports to LSC , Last Vehicle and Owned Vehicle added to Vehicle Options.
+Roulette hack .
+Player Invisibility.
+Single Player Options [Oxygen,Special Ability and Money]
+Encrypted Value Editor.
+
+Removed: [ But Still Accessable from "All Menus" ] 
+GNulls' mini garage .
+GNulls Old Mini Garage [To many Vehicle spawn menus that do the same thing ?]
+Item Dropper [ Broken]
+Old Item Dropper [ Also Broken ? ]
+
+Moved:
+Rid Joiner to "Session Options ".
+Fly/Superjump/invisibility etc to "Fun Stuff".
+
+Some other shit I forgot :\
+
+Have Fun !
+
+
+
+
 v1.4
 Added :
 LSCCheat - Add any car to your Garage -Beta

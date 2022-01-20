@@ -3,10 +3,14 @@
 
 
 Wicked for GTA5
-Cheat Table Based off GassyNull's Tuner script
-All credit goes to:
- GassyNull , DMKiller ,BigBadWolfx77.
- Vladi023 , GTXFuryNano,  VenomKY
+
+Cheat Table is Based off GTATunersScriptGenZ v(3.1-[1.58]), 
+
+Cayo Perico Cheat Table (CPCT) [1.52]
+
+ALL credit goes to: {In no particular order}
+
+Roddy01 , LemonCrabsGassyNull, DMKiller, BigBadWolfx77, Vladi023, GTXFuryNano, GuilhermeSiilva, VenomKY , Shirabrixx82 ,
 and Everyone who contributed at UnknownCheaTs.me
 
 

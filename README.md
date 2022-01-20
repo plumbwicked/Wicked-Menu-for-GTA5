@@ -15,11 +15,18 @@ Change Log:
 
 v1,5 
 
-Cleaned up GUI , Color Coded all Cheats 
+Cleaned up GUI , 
+
+Color Coded all Cheats 
+
 Green = Main Folders
+
 Blue = Chapters
+
 Orange = Cheats
+
 Lime = PopOut Menus
+
 
 Added :
 MenuCodeBase.

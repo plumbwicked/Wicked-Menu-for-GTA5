@@ -1,4 +1,6 @@
-![Screenshot_133](https://user-images.githubusercontent.com/62859332/150670455-c71bd7b9-1114-41ac-ba0b-ad37474b2597.png)
+![Screenshot_134](https://user-images.githubusercontent.com/62859332/150670522-2beadbb4-e067-4900-9ab3-7c2c88f148db.png)
+
+
 
 
 
@@ -16,6 +18,39 @@ and Everyone who contributed at UnknownCheaTs.me
 
 
 Change Log:
+
+ Wicked Menu 1.6
+ 
+ Added 
+ 
+ Roulette updated by quadplex & TheTamsin
+ 
+ Tunable Calculator
+ 
+ Boxes Uncheck themself when using single use functions
+ 
+ Added Hotkeys to GNulls Fly Script. @ Shift+Arrow keys /page up/down
+ 
+ Suicide on Delete key 
+ 
+ Panic Teleport/Observitory on Insert key
+ 
+ Armor hotkey on numbpad+ now gives Health and Armor
+ 
+ Numpad/ Fast Run/SwimSuper Jump
+ 
+ Numpad * Invisible
+ 
+ CTrL+ */ is Off or use - is All cheats Off
+
+
+
+
+
+
+
+
+
 
 v1,5 
 

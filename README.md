@@ -12,7 +12,8 @@ Cayo Perico Cheat Table (CPCT) [1.52]
 
 ALL credit goes to: {In no particular order}
 
-Roddy01 , LemonCrabsGassyNull, DMKiller, BigBadWolfx77, Vladi023, GTXFuryNano, GuilhermeSiilva, VenomKY , Shirabrixx82 , Kiddion , BrainCord , Kaiii, Azzy and Artjom
+Roddy01 , LemonCrabs , GassyNull, DMKiller, BigBadWolfx77, Vladi023, GTXFuryNano, GuilhermeSiilva, VenomKY , Shirabrixx82 , Kiddion , 
+BrainCord , Kaiii, Azzy and Artjom
 and Everyone who contributed at UnknownCheaTs.me
 
 

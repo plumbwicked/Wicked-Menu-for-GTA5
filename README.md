@@ -19,7 +19,7 @@ and Everyone who contributed at UnknownCheaTs.me
 
 Change Log:
 
-Wicked Menu 1.6
+Wicked Menu 1.7
 
  
 Added 
@@ -43,6 +43,11 @@ Numpad/ Fast Run/SwimSuper Jump
 Numpad * Invisible
 
 CTrL+Hotkey is Off or use - is All cheats Off
+
+
+
+
+
 
  Wicked Menu 1.6
  

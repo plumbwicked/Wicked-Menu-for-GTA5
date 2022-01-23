@@ -10,12 +10,46 @@ Cayo Perico Cheat Table (CPCT) [1.52]
 
 ALL credit goes to: {In no particular order}
 
-Roddy01 , LemonCrabsGassyNull, DMKiller, BigBadWolfx77, Vladi023, GTXFuryNano, GuilhermeSiilva, VenomKY , Shirabrixx82 ,
+Roddy01 , LemonCrabsGassyNull, DMKiller, BigBadWolfx77, Vladi023, GTXFuryNano, GuilhermeSiilva, VenomKY , Shirabrixx82 , Kiddion , BrainCord , Kaiii, Azzy and Artjom
 and Everyone who contributed at UnknownCheaTs.me
 
 
 
 Change Log:
+
+Wicked Menu 1.6
+
+ 
+Added 
+ 
+Roulette updated by quadplex & TheTamsin
+
+Tunable Calculator
+
+Boxes Uncheck themself when using single use functions
+
+Added Hotkeys to GNulls Fly Script. @ Shift+Arrow keys 
+
+Suicide on Delete key 
+
+Panic Teleport/Observitory on Insert key
+
+Armor hotkey on numbpad+ now gives Health and Armor
+
+Numpad/ Fast Run/SwimSuper Jump
+
+Numpad * Invisible
+
+CTrL+Hotkey is Off or use - is All cheats Off
+
+
+
+
+
+
+
+
+
 
 v1,5 
 

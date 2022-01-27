@@ -23,10 +23,33 @@ Change Log:
 
 
 
+v1.7
+
+Added 
+
+"Remove Cooldown" Chapter Added Under "Online Options"
+
+Payphone_Cooldown_Skip -Thanks VenomKY, boredom1234
+
+Teleport locations for all 32 payphones - thanks to MidnightEvil
+
+Heists /Tuner/Cayo Editor ReAdded to Main Menu , "I burried it on Accident oops"
+
+Fixed GUI Pop up issue
+
+Fixed / Reset Bunker Product/Research 
+
+Name changer Added to Beta
+
+ More Stuff I forgot ....
 
 
 
- Wicked Menu 1.6
+
+
+
+
+Wicked Menu 1.6
  
  Added 
  

@@ -22,6 +22,29 @@ and Everyone who contributed at UnknownCheaTs.me
 Change Log:
 
 
+v1.8
+
+
+Added 
+
+Teleports
+Casino,Casino Cashier , Diamond Slot , Roulette table,  Clothes Stores, Bunker PC, Ammo Nation,
+
+Change drivetrain of a vehicle FWD ,RWD , AWD Thanks to mon99 https://www.unknowncheats.me/forum/3350010-post9.html
+
+Changed Hotkey Modifier for Invisable, Super Jump/Walk, Weapon Damage and Weapon distance from "CTRL" to "NumPad -"
+
+Drop down menu for Health and Armor
+
+Notifications are set to OFF on start . "Turn them back on in "Notifications"
+
+More stuff I forgot about ....
+
+
+
+
+
+
 
 
 

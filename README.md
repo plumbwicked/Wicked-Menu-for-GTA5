@@ -20,6 +20,18 @@ and Everyone who contributed at UnknownCheaTs.me
 
 
 Change Log:
+v1.9
+
+Added
+View all Hotkeys Function
+New fonts 
+Color coded Risky Functions Red
+
+
+
+
+
+
 
 
 v1.8

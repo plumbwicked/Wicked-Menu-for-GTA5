@@ -17,6 +17,22 @@ and Everyone who contributed at UnknownCheaTs.me
 
 
 Change Log:
+
+
+
+v1.9a
+Added :
+Empty lobby RDR2 version
+Empty Lobby to Main menu
+Fixed:
+Disable Collision - Thanks to Gorox https://www.unknowncheats.me/forum/3369378-post58.html
+
+
+
+
+
+
+
 v1.9
 
 Added

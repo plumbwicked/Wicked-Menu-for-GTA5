@@ -20,6 +20,18 @@ Change Log:
 
 
 
+
+
+2.0
+Removed:
+AllMenu/Menu
+Control Center
+Added :
+Welcome Message. 
+Name changer.
+
+
+
 v1.9a
 Added :
 Empty lobby RDR2 version

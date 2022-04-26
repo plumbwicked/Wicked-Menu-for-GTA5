@@ -1,8 +1,6 @@
 
 ![Screenshot_452](https://user-images.githubusercontent.com/62859332/159578435-26ee2852-669f-4ed3-937a-bebbfdd15c8a.png)
 
-
-
 Wicked for GTA5
 
 Cheat Table is Based off GTATunersScriptGenZ v(3.1-[1.58]), 
@@ -19,9 +17,15 @@ and Everyone who contributed at UnknownCheaTs.me
 
 Change Log:
 
+2.0.a
 
+Removed Broken Functions
 
+Removed Detected functions "FlameFlags"
 
+Moved Super Jump to Single Player.
+
+Fixed Name changer
 
 2.0
 Removed:

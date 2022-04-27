@@ -17,6 +17,12 @@ and Everyone who contributed at UnknownCheaTs.me
 
 Change Log:
 
+v.2.0.b
+
+Fixed: LSC Cheat .
+
+
+
 2.0.a
 
 Removed Broken Functions

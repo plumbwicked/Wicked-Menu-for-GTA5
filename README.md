@@ -17,6 +17,16 @@ and Everyone who contributed at UnknownCheaTs.me
 
 Change Log:
 
+V2.1
+
+Updated Cheat Table , special Thanks to : BigBadWolfx77 
+Added Mini Garage Mod 1.59 - thanks to TheTamsin
+Fixed Sessoin changer - thanks to DDHibiki
+CreateAmbienPinckup Thanks to xueyingdan
+Bunker money thanks to DMKiller
+
+
+
 v.2.0.b
 
 Fixed: LSC Cheat .

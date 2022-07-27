@@ -17,6 +17,14 @@ and Everyone who contributed at UnknownCheaTs.me
 
 Change Log:
 
+
+v2.2
+
+Updated menu for 1.61.
+ 
+Money features still broken . 
+
+
 V2.1
 
 Updated Cheat Table , special Thanks to : BigBadWolfx77 

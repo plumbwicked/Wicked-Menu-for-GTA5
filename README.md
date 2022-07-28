@@ -18,6 +18,14 @@ and Everyone who contributed at UnknownCheaTs.me
 Change Log:
 
 
+v2.3
+
+Updated :
+BunkerMoney Thanx to KillSh0t
+Money Drop Thank to AureIn
+
+
+
 v2.2
 
 Updated menu for 1.61.

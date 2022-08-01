@@ -18,6 +18,29 @@ and Everyone who contributed at UnknownCheaTs.me
 Change Log:
 
 
+
+v2.6
+
+Special Thanks to DMkiller for all the information he provides .
+
+Updated:
+
+Simple Repair Vehicle 
+
+Thermal Bypass
+
+Casino Rig Slot Machines Thanks to AureIn
+
+Casino Straight Flush Thanks to DMkiller , AureIn
+
+FriendslistPTR
+
+Stats Editor Thanks to KillSh0t
+
+
+
+
+
 v2.5
 Updated: Items Dropper .
 Misc. Fixes

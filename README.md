@@ -17,7 +17,21 @@ and Everyone who contributed at UnknownCheaTs.me
 
 Change Log:
 
+v2.7
 
+Updated: 
+
+Thanks to Killshot
+
+OffRadar
+
+Ghost Organization 
+
+Stats
+
+VenomKY's clothes editor
+
+MiniGarage and Vehicle list Thanks to TheTamsin
 
 v2.6
 
